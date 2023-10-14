@@ -1,8 +1,7 @@
 # Audit Portfolio
 - [Competitive Audits](doc:linking-to-pages#anchor)
-- [Bug Bounties (Immunefi)](doc:linking-to-pages#anchor)
+
 # Competitive Audits
-|    Contest  |   Platform  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|    Contest    |   Platform    |   Platform    |
+| ------------- | ------------- | ------------- |
+|   Allo V2     |   Sherlock    |   [Report](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/237)    |
