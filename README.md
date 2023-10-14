@@ -1,5 +1,5 @@
 # Audit Portfolio
-- [Competitive Audits](doc:competitive-audits)
+- [Competitive Audits](#competitive-audits)
 
 # Competitive Audits
 |    Contest    |  Description  |   Platform    |   Platform    |
