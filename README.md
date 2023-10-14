@@ -1,5 +1,5 @@
 # Audit Portfolio
-- [Competitive Audits](doc:linking-to-pages#anchor)
+- [Competitive Audits](doc:linking-to-pages#competitive-audits)
 
 # Competitive Audits
 |    Contest    |  Description  |   Platform    |   Platform    |
