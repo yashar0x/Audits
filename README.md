@@ -2,6 +2,8 @@
 - [Competitive Audits](#competitive-audits)
 
 # Competitive Audits
-|    Contest    |   High Risk   |   Medium Risk    |    Low Risk   |   Language    |   Platform    |    Report     |
+|    Contest    |   High Risk   |   Medium Risk    |    Low Risk   |   Ranking     |   Platform    |    Report     |
 | ------------- | ------------- |  -------------   | ------------- | ------------- | ------------- | ------------- |
-|   Allo V2     |       1       |  -               | -             |   Solidity    |   Sherlock    | [Link](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/237)|
+|  Open Dollar  |       -       |  3 ( 1 Unique )  | -             |     3rd 🥉    |   Code4rena   |               |
+|   Allo V2     |       1       |  -               | -             |               |   Sherlock    | [Link](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/237)|
+|    Dopex      |       1       |  -               | -             |               |   Code4rena   |               |
