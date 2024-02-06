@@ -1,6 +1,3 @@
-# Audit Portfolio
-- [Competitive Audits](#competitive-audits)
-
 # Competitive Audits
 |    Contest    |   High Risk   |   Medium Risk    |    Low Risk   |   Ranking     |   Platform    |    Report     |
 | ------------- | ------------- |  -------------   | ------------- | ------------- | ------------- | ------------- |
